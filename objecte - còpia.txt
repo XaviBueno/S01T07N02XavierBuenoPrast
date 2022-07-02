@@ -1,0 +1,1 @@
+{"nom":"Pere","cognom":"Gonzalez","preuHora":25.0}
